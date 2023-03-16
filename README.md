@@ -1,8 +1,8 @@
 # strapiv4-sort-by-state
 
-To login use:
-user: user@test.com
-pass: Pass1234
+To login use:  
+user: user@test.com  
+pass: Pass1234  
 
 
 
